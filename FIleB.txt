@@ -1,2 +1,2 @@
-This is the CHnages for File B.
-
+This is the second file for FileB.
+Could you Please add one more line to B.
