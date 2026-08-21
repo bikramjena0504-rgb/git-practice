@@ -1,2 +1,2 @@
-This is the new File for Git
-This is the 3rd chnages for A .
+
+This is the chnages for FileA.
